@@ -1,0 +1,79 @@
+
+
+PPT Summary — Dashboard Design for Business Stakeholders
+
+
+Slide 1 — Title Slide
+
+Title: Dashboard Design for Business Stakeholders
+
+Subtitle: Data Analyst Internship – Task 4
+
+Arathy Krishna S | Data Analyst Intern
+
+
+Slide 2 — Project Overview
+
+Goal: Create an interactive dashboard to track Sales, Profit, and Growth.
+
+Tools Used: Power BI / Tableau, Excel / Python.
+
+Dataset: Kaggle Sales Dataset (fields: Date, Region, Sales Amount, Profit, Category).
+
+
+Slide 3 — Dataset Details
+
+Source: Kaggle Sales/Financial dataset.
+
+Type: Sales transaction data.
+
+Purpose: Provide actionable insights for business decision-making.
+
+
+Slide 4 — KPIs Tracked
+
+Total Sales.
+
+Total Profit.
+
+Growth Rate (%).
+
+Monthly Trends.
+
+
+Slide 5 — Dashboard Features
+
+Slicers & Filters for Date, Region, Category.
+
+Time-Series Charts for trend analysis.
+
+Card visuals for KPIs.
+
+Consistent color scheme for readability.
+
+Optional navigation menu for better UX.
+
+
+Slide 6 — How to Use the Dashboard
+
+1. Open .pbix (Power BI) or .twb (Tableau) file.
+
+
+2. Connect to dataset if prompted.
+
+
+3. Use slicers to filter data.
+
+
+4. Review KPI cards and visual charts for insights.
+
+
+Slide 7 — Conclusion
+
+Interactive dashboards enable real-time insights.
+
+Helps stakeholders make data-driven decisions.
+
+
+
+
