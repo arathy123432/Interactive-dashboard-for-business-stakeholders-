@@ -1,0 +1,14 @@
+import pandas as pd
+
+# Load dataset
+df = pd.read_csv("sales_data.csv")
+
+# Clean data
+df['Date'] = pd.to_datetime(df['Date'])
+df = df.dropna()
+
+# Calculate Growth Rate
+df['GrowthRate'] = df['Sales'].pct_change().fillna(0) * 100
+
+# Save cleaned data
+df.to_csv("cleaned_sales_data.csv", index=False)
